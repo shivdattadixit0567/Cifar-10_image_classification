@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+Streamlit
+nltk
+# tensorflow
+scikit-learn
+protobuf==3.20.*
