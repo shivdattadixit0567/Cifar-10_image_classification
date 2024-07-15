@@ -25,3 +25,6 @@
 * conda activate venv/
 * python app.py
 * streamlit run app.py
+
+# Live At
+https://huggingface.co/spaces/Ankit100/Cifar-10_ImageClassification
